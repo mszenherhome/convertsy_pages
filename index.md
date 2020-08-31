@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Convertsy
 
 You can use the [editor on GitHub](https://github.com/mszenherhome/convertsy_pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

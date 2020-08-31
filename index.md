@@ -1,6 +1,6 @@
 ## Welcome to Convertsy
 
-Convertsy is a Slack command that assists you in converting
+Convertsy is a Slack command that assists you in converting lengths, weights and volumes from one unit to another.
 
 ### Installation
 
@@ -26,4 +26,4 @@ Type "/cu help units" in Slack to get a list of the weight, length and volume un
 You can check at Convertsy's Privacy Policy [here](https://mszenherhome.github.io/convertsy_pages/privacy_policy).
 
 ### Support or Contact
-Having trouble with Convertsy? [Contact support](arfsaysthedog@gmail.com) and we’ll help you sort it out.
+Having trouble with Convertsy? [Contact support](mailto:arfsaysthedog@gmail.com) and we’ll help you sort it out.
